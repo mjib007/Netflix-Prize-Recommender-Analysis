@@ -1,3 +1,7 @@
+![Profile views](https://komarev.com/ghpvc/?username=mjib007&label=Profile%20views&color=4c8eda&style=flat)
+[![Stars](https://img.shields.io/github/stars/mjib007/Netflix-Prize-Recommender-Analysis?style=flat&color=yellow)](https://github.com/mjib007/Netflix-Prize-Recommender-Analysis/stargazers)
+[![Forks](https://img.shields.io/github/forks/mjib007/Netflix-Prize-Recommender-Analysis?style=flat&color=blue)](https://github.com/mjib007/Netflix-Prize-Recommender-Analysis/network/members)
+
 # 🎬 Netflix Prize：酸民 vs. 好人預測 (推薦系統實作)
 
 這是一個基於 2006 年 Netflix 百萬美金挑戰賽資料集的機器學習專案。透過分析電影評分數據，我們嘗試預測不同使用者對電影的評分偏好。
